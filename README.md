@@ -1,12 +1,17 @@
-# React + Vite
+# Concert For You
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I wanted to get good at the Deltarune piano, so I made a copy of it.
 
-Currently, two official plugins are available:
+### How to Play
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Play notes with Z.
+Hold down the arrow keys to modulate the note being played.
+Hold down C to lower the octave of the note being played.
 
-## Expanding the ESLint configuration
+### Credits
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+All sprites and soundfonts are from [Deltarune](deltarune.com) by Toby Fox. It's a great game. Play it.
+
+Added thanks to [this comment by u/Apprehensive_Law_118](https://www.reddit.com/r/Underminers/comments/wzy7n7/comment/mzn2jt0) for helping me get the assets needed super quickly.
+
+The exact font used here is [Determination](https://www.fonts4free.net/determination-font.html) by Haley Wakamatsu.
