@@ -1,6 +1,6 @@
 # Concert For You
 
-I wanted to get good at the Deltarune piano, so I made a copy of it.
+I wanted to get good at the Deltarune piano, so I made a copy of it. [You can play it here, too!](https://makes-vaporware.github.io/concert-for-you/)
 
 ### How to Play
 
